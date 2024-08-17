@@ -1,12 +1,11 @@
 # MMPS
 
-
 Multi-Modality Person Search (MMPS) dataset includes 21,470 images and 1,012 identities across six different cameras.
 
 
 ## How to get the dataset?
 
-To protect privacy, if you need access to this dataset, please send an email to **chenhx87[at]mail2[dot]sysu[dot]edu[dot]cn**.
+If you need access to this dataset, please send a request email to **chenhx87[at]mail2[dot]sysu[dot]edu[dot]cn**.
 
 
 ## Acknowledgment
