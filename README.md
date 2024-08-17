@@ -15,7 +15,7 @@ Thanks to [CM-Group](https://github.com/WhollyOat/CM-Group) for the support.
 
 
 
-## Citation: 
+## Citation
 
 Please cite the following paper if you use this repository in your research work:
 
